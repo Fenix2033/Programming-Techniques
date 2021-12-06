@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LinearniSeznam.dir/main.cpp.o CMakeFiles/LinearniSeznam.dir/LinearniS.cpp.o -o LinearniSeznam 

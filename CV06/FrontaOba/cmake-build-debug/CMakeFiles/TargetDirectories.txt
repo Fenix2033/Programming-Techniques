@@ -1,0 +1,3 @@
+/home/xkudla/Documents/Mendel/PTN/CV/CV06/FrontaOba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xkudla/Documents/Mendel/PTN/CV/CV06/FrontaOba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xkudla/Documents/Mendel/PTN/CV/CV06/FrontaOba/cmake-build-debug/CMakeFiles/CV61.dir
